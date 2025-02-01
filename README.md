@@ -10,7 +10,7 @@ The goal of this project is to build and train a neural network to recognize dig
 
 - **MLP Architecture**: A neural network with two hidden layers, using ReLU activation for the hidden layers and Sigmoid activation for the output layer.
 - **Model Training**: The model is trained using the backpropagation algorithm with gradient descent.
-- **Test Accuracy**: Achieved a test accuracy of approximately **12.7%** on the MNIST dataset.
+- **Test Accuracy**: Achieved a test accuracy of approximately **72.7%** on the MNIST dataset.
 
 ## Requirements
 
