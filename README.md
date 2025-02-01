@@ -25,7 +25,7 @@ To run this project, you will need to install the following dependencies:
 #How to run the code
 
 1.Clone this repository to your local machine:
-     -git clone https://github.com/your-username/Handwritten-Digit-Recognition.git
+     -git clone https://github.com/Eshwar6302/Handwritten-Digit-Recognition.git
 
 2.Navigate to the project directory:
         -cd Handwritten-Digit-Recognition
